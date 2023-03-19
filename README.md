@@ -5,7 +5,7 @@
 - 📫 How to reach me this is my work mail lorenzonicotera02@gmail.com ask me everything and i will try to answer
 
 <div align="center">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dabi-rac&label=Profile%20views&color=0e75b6&style=flat" alt="Dralozzo" /> </p>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </div>
 
