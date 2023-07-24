@@ -6,7 +6,6 @@
 
 <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabi-rac&label=Profile%20views&color=0e75b6&style=flat" alt="Dralozzo" /> </p>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </div>
 
 ### 🧰 Languages that i know:
@@ -18,14 +17,7 @@
 <br>
 <br>
 <br>
-<h3>😎 A little animation that i think is pretty cool :</h3>
-
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
